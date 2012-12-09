@@ -9,4 +9,6 @@ $ ./RC4-40-brute 'samples/test.pdf:$npdf$1*2*40*-4*1*16*c56bbc4145d25b468a873618
 
 ```
 
-Should takes less than 2 days on AMD FX-8120.
+1. Should takes less than 2 days on AMD FX-8120.
+
+2. Use https://github.com/kholia/qpdf.git to decrypt the document after the key is cracked.
